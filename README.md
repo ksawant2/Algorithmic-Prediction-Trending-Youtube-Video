@@ -26,5 +26,4 @@ To answer questions like:
 
 4) When were trending videos published? On which days of the week? at which times of the day?
 
-DataSource: 
-https://www.kaggle.com/datasnaek/youtube
+
